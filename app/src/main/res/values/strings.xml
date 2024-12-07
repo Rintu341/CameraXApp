@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraXDEMO</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="video_cam">Video cam</string>
+    <string name="photo_camera">Photo Camera</string>
+    <string name="switch_camera">Switch Camera</string>
+</resources>
